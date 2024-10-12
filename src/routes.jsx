@@ -1,6 +1,6 @@
 // import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import RestApi from "./pages/Api/RestApi"
+import RestApi from "./pages/Api/Restapi"
 
 // import TxsPage from './TxsPage';
 // import TxPage from './TxPage';
@@ -16,13 +16,13 @@ import RestApi from "./pages/Api/RestApi"
 // import ContractVerificationPage from './ContractVerificationPage';
 
 
-import Home from './pages/Home/Home';
-import ContractVerificationForm from './pages/Others/Verify-Contract/VerifyContract';
+import Home from './pages/Home/home';
+import ContractVerificationForm from './pages/Others/Verify-Contract/verifyContract';
 import GasTrackerPage from './pages/Others/Gas-Tracker/gasTracker';
-import Token from './pages/Tokens/Token';
+import Token from './pages/Tokens/token';
 import TransactionPage from './pages/Blockchain/TransactionPage';
-import Contract from './pages/Blockchain/Contract';
-import TopAccount from './pages/Blockchain/TopAccount';
+import Contract from './pages/Blockchain/contract';
+import TopAccount from './pages/Blockchain/topaccount';
 
 
 // import Addressdetails from './pages/Blockchain/addressdetails';

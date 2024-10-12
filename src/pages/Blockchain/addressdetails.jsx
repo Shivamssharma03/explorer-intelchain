@@ -1,13 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { FaArrowRight } from "react-icons/fa";
 import { IoIosInformation } from "react-icons/io";
-import { CiGrid41 } from "react-icons/ci";
-import { FaAngleDown } from "react-icons/fa";
-import { LuWallet } from "react-icons/lu";
-import { IoCubeOutline } from "react-icons/io5";
+
 import { MdContentCopy } from "react-icons/md";
 import { IoQrCode } from "react-icons/io5";
-import Dropdown from "./DropDown";
+
 import DataSlider from "../../components/contractcard/DataSlider";
 import { TbFileTypeCsv } from "react-icons/tb";
 

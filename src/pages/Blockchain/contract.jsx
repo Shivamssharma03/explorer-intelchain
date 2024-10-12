@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Contractcard from "../../components/contractcard/contractcard";
-import contractData from "./ContractData";
+import contractData from "./contractData";
 import { MdContentCopy } from "react-icons/md";
 import Filterbar from "../../components/contractcard/filterbar";
 import PageHeader from "../../components/PageHeader";
